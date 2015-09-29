@@ -372,7 +372,10 @@ input.search-form:hover {
 }
 
 #main-slider .carousel .carousel-content {
-  margin-top: 150px;
+  margin-top: 110px;
+  background: rgba(0,0,0,.4);
+  padding: 20px;
+  border-radius: 5px;
 }
 
 #main-slider .carousel .slide-margin{
