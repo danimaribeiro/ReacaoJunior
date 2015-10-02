@@ -1,96 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <title>ReaÃ§Ã£o Junior</title>
-	
-	<!-- core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
-    <link href="css/animate.min.css" rel="stylesheet">
-    <link href="css/prettyPhoto.css" rel="stylesheet">
-    <link href="css/main.css" rel="stylesheet">
-    <link href="css/responsive.css" rel="stylesheet">
-    <!--[if lt IE 9]>
-    <script src="js/html5shiv.js"></script>
-    <script src="js/respond.min.js"></script>
-    <![endif]-->       
-    <link rel="shortcut icon" href="images/ico/favicon.ico">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57-precomposed.png">
+<head>    
+	<?php include 'head.php';?>
 </head><!--/head-->
 
-<body class="homepage">
-
-    <header id="header">
-    <!-- 
-        <div class="top-bar">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-6 col-xs-4">
-                        <div class="top-number"><p><i class="fa fa-phone-square"></i>  +aqui vai o telefone</p></div>
-                    </div>
-                    <div class="col-sm-6 col-xs-8">
-                       <div class="social">
-                            <ul class="social-share">
-                                <li><a href="https://www.facebook.com/groups/1473250316319205/"><i class="fa fa-facebook"></i></a></li>                                
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                            </ul>
-                            <!-- 
-                            <div class="search">
-                                <form role="form">
-                                    <input type="text" class="search-form" autocomplete="off" placeholder="Pesquisar">
-                                    <i class="fa fa-search"></i>
-                                </form>
-                           </div>
-                          
-                       </div>
-                    </div>
-                </div>
-            </div>
-        </div>
- -->
-        <nav class="navbar" role="banner">
-            <div class="container">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand" href="index.html"><img src="images/logo redimensionada.png" alt="logo" style="margin-top:-5px;max-width:260px;"></a>
-                </div>
-				
-                <div class="collapse navbar-collapse navbar-right">
-                    <ul class="nav navbar-nav">
-                        <li class="active"><a href="index.html">Inicio</a></li>
-                        <li><a href="about-us.html">Sobre nÃ³s</a></li>
-                        <li><a href="services.html">ServiÃ§os</a></li>
-                        <li><a href="portfolio.html">PortfÃ³lio</a></li>
-                        <!-- <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <i class="fa fa-angle-down"></i></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="blog-item.html">Blog Single</a></li>
-                                <li><a href="pricing.html">Pricing</a></li>
-                                <li><a href="404.html">404</a></li>
-                                <li><a href="shortcodes.html">Shortcodes</a></li>
-                            </ul>
-                        </li>  -->
-                        <li><a href="blog.html">Blog</a></li> 
-                        <li><a href="contact-us.html">Contato</a></li>                        
-                    </ul>
-                </div>
-            </div><!--/.container-->
-        </nav><!--/nav-->
-		
-    </header><!--/header-->
+<body class="homepage">	
+	<?php include 'header.php';?>
 
     <section id="main-slider" class="no-margin">
         <div class="carousel slide">
@@ -106,8 +21,8 @@
                         <div class="row slide-margin">
                             <div class="col-sm-6">
                                 <div class="carousel-content">
-                                	<h1 class="animation animated-item-1">AnÃ¡lises quÃ­micas</h1>
-                                    <h2 class="animation animated-item-2">A tecnologia dos laboratÃ³rios da melhor universidade de Santa Catarina a seu alcance...</h2>
+                                	<h1 class="animation animated-item-1">Análises quí­micas</h1>
+                                    <h2 class="animation animated-item-2">A tecnologia dos laboratórios da melhor universidade de Santa Catarina a seu alcance...</h2>
                                     <a class="btn-slide animation animated-item-3" href="#">Leia Mais</a>                                    
                                 </div>
                             </div>                        </div>
@@ -161,11 +76,11 @@
     <section id="feature" >
         <div class="container">
            <div class="center wow fadeInDown">
-                <h2>A ReaÃ§Ã£o Junior</h2>
+                <h2>A Reação Junior</h2>
                 <p class="lead">
-				A ReaÃ§Ã£o JÃºnior Ã© uma empresa sem fins lucrativos, vinculada a Universidade Federal de
-				Santa Catarina, formada e gerida exclusivamente por alunos de graduaÃ§Ã£o dos cursos de
-				QuÃ­mica, FÃ­sica e MatemÃ¡tica.
+				A Reação Júnior é uma empresa sem fins lucrativos, vinculada a Universidade Federal de
+				Santa Catarina, formada e gerida exclusivamente por alunos de graduação dos cursos de
+				Quí­mica, Fí­sica e Matemática.
 				</p>
             </div>
 
@@ -175,18 +90,18 @@
                     <div class="col-md-6 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="feature-wrap">
                             <i class="fa fa-leaf"></i>
-                            <h2>MissÃ£o</h2>
+                            <h2>Missão</h2>
                             <h3>Transformar e desenvolver nas pessoas o poder de impactar positivamente a
-							sociedade, por meio da vivÃªncia empresarial.</h3>
+							sociedade, por meio da vivência empresarial.</h3>
                         </div>
                     </div><!--/.col-md-4-->
 
                     <div class="col-md-6 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="feature-wrap">
                             <i class="fa fa-heart"></i>
-                            <h2>VisÃ£o</h2>
-                            <h3>Ser uma empresa de referÃªncia no mercado, focada na inovaÃ§Ã£o,
-							soluÃ§Ãµes de problemas e comprometida com a responsabilidade socioambiental.</h3>
+                            <h2>Visão</h2>
+                            <h3>Ser uma empresa de referência no mercado, focada na inovação,
+							soluções de problemas e comprometida com a responsabilidade socioambiental.</h3>
                         </div>
                     </div><!--/.col-md-4-->
                 
@@ -202,9 +117,9 @@
                     <div class="col-md-6 col-sm-6 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
                         <div class="feature-wrap">
                             <i class="fa fa-line-chart"></i>
-                            <h2>ExcelÃªncia</h2>
-                            <h3>realizar serviÃ§os de qualidade com transparÃªncia, profissionalismo
-                            e paixÃ£o.</h3>
+                            <h2>Excelência</h2>
+                            <h3>realizar serviços de qualidade com transparência, profissionalismo
+                            e paixão.</h3>
                         </div>
                     </div><!--/.col-md-4-->
                     
@@ -212,7 +127,7 @@
                         <div class="feature-wrap">
                             <i class="fa fa-gg"></i>
                             <h2>Sinergia:</h2>
-                            <h3>trabalho em equipe buscando a unificaÃ§Ã£o do conhecimento atravÃ©s
+                            <h3>trabalho em equipe buscando a unificação do conhecimento através
 							da interdisciplinaridade.</h3>
                         </div>
                     </div><!--/.col-md-4-->
@@ -221,7 +136,7 @@
                         <div class="feature-wrap">
                             <i class="fa fa-child"></i>
                             <h2>Ser</h2>
-                            <h3>ReaÃ§Ã£o JÃºnior Ã© se dedicar de cabeÃ§a e coraÃ§Ã£o com proatividade.</h3>
+                            <h3>Reação Júnior é se dedicar de cabeça e coração com proatividade.</h3>
                         </div>
                     </div><!--/.col-md-4-->
                  
@@ -235,7 +150,7 @@
         <div class="container">
             <div class="center wow fadeInDown">
                 <h2>Trabalhos recentes</h2>
-                <p class="lead">Aqui eu pensei em vez dos trabalhos colocar fotos nossas nas reuniÃµes, etc</p>
+                <p class="lead">Aqui eu pensei em vez dos trabalhos colocar fotos nossas nas reuniões, etc</p>
             </div>
 
             <div class="row">
@@ -349,12 +264,12 @@
     <section id="services" class="service-item">
 	   <div class="container">
             <div class="center wow fadeInDown">
-                <h2>Nossos serviÃ§os</h2>
+                <h2>Nossos serviços</h2>
                 <p class="lead">
-                Nosso objetivo principal Ã© complementar a formaÃ§Ã£o acadÃªmica dos estudantes, oferecendo a
-				eles a oportunidade de desenvolver projetos e consultorias com a orientaÃ§Ã£o dos professores,
-				o que garante a qualidade de nossos serviÃ§os. A ReaÃ§Ã£o Jr nÃ£o tÃªm por fim Ãºltimo o lucro,
-				dessa forma podemos oferecer serviÃ§os de qualidade a um custo baixo comparado ao 
+                Nosso objetivo principal é complementar a formação acadêmica dos estudantes, oferecendo a
+				eles a oportunidade de desenvolver projetos e consultorias com a orientação dos professores,
+				o que garante a qualidade de nossos serviços. A Reação Jr não têm por fim último o lucro,
+				dessa forma podemos oferecer serviços de qualidade a um custo baixo comparado ao 
 				mercado.
 				</p>
             </div>
@@ -367,7 +282,7 @@
                             <img class="img-responsive" src="images/services/services1.png">
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">AnÃ¡lises</h3>
+                            <h3 class="media-heading">Análises</h3>
                             <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
                         </div>
                     </div>
@@ -415,7 +330,7 @@
                             <img class="img-responsive" src="images/services/services5.png">
                         </div>
                         <div class="media-body">
-                            <h3 class="media-heading">Projetos de laboratÃ³rios</h3>
+                            <h3 class="media-heading">Projetos de laboratórios</h3>
                             <p>Lorem ipsum dolor sit ame consectetur adipisicing elit</p>
                         </div>
                     </div>
@@ -442,8 +357,8 @@
                 <div class="col-sm-6 wow fadeInDown">
                     <div class="skill">
                         <h2>Nossos talentos</h2>
-                        <p>O nosso time Ã© composto por uma equipe de estudantes das Ã¡reas de Quimica, FÃ­sica
-                        e MatemÃ¡tica, oferecendo a vocÃª vÃ¡rios talentos.</p>
+                        <p>O nosso time é composto por uma equipe de estudantes das Áreas de Quimica, Física
+                        e Matemática, oferecendo a você vários talentos.</p>
 
                         <div class="progress-wrap">
                             <h3>Projetos</h3>
@@ -456,7 +371,7 @@
                         </div>
 
                         <div class="progress-wrap">
-                            <h3>EstatÃ­stica</h3>
+                            <h3>Estatística</h3>
                             <div class="progress">
                               <div class="progress-bar color2" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 95%">
                                <span class="bar-width">95%</span>
@@ -465,7 +380,7 @@
                         </div>
 
                         <div class="progress-wrap">
-                            <h3>Compostos quÃ­micos</h3>
+                            <h3>Compostos químicos</h3>
                             <div class="progress">
                               <div class="progress-bar color3" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 80%">
                                 <span class="bar-width">80%</span>
@@ -487,7 +402,7 @@
 
                 <div class="col-sm-6 wow fadeInDown">
                     <div class="accordion">
-                        <h2>Porque pessoas como nÃ³s?</h2>
+                        <h2>Porque pessoas como nós?</h2>
                         <div class="panel-group" id="accordion1">
                           <div class="panel panel-default">
                             <div class="panel-heading active">
@@ -595,9 +510,9 @@
                             <i class="fa fa-phone"></i>
                         </div>
                         <div class="media-body">
-                            <h2>Tem algum pergunta ou precisa de um orÃ§amento para seu projeto?</h2>
-                            <p>Teremos o maior prazer em conversar com vocÃª, por favor entre em contato atravÃ©s do telefone +55 (48) 9999-9999
-                            ou envie-nos um email para o endereÃ§o: <a href="mailto:contatoreacaojr@gmail.com ">contatoreacaojr@gmail.com</a> </p>
+                            <h2>Tem algum pergunta ou precisa de um orçamento para seu projeto?</h2>
+                            <p>Teremos o maior prazer em conversar com vocâ, por favor entre em contato através do telefone +55 (48) 9999-9999
+                            ou envie-nos um email para o endereço: <a href="mailto:contatoreacaojr@gmail.com ">contatoreacaojr@gmail.com</a> </p>
                         </div>
                     </div>
                 </div>
@@ -605,89 +520,7 @@
         </div><!--/.container-->    
     </section><!--/#conatcat-info-->
 
-    <section id="bottom">
-        <div class="container wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
-            <div class="row">
-                <div class="col-md-3 col-sm-6">
-                    <div class="widget">
-                        <h3>Aqui eu ajeito os links no final</h3>
-                        <ul>
-                            <li><a href="#">About us</a></li>
-                            <li><a href="#">We are hiring</a></li>
-                            <li><a href="#">Meet the team</a></li>
-                            <li><a href="#">Copyright</a></li>
-                            <li><a href="#">Terms of use</a></li>
-                            <li><a href="#">Privacy policy</a></li>
-                            <li><a href="#">Contact us</a></li>
-                        </ul>
-                    </div>    
-                </div><!--/.col-md-3-->
-
-                <div class="col-md-3 col-sm-6">
-                    <div class="widget">
-                        <h3>Support</h3>
-                        <ul>
-                            <li><a href="#">Faq</a></li>
-                            <li><a href="#">Blog</a></li>
-                            <li><a href="#">Forum</a></li>
-                            <li><a href="#">Documentation</a></li>
-                            <li><a href="#">Refund policy</a></li>
-                            <li><a href="#">Ticket system</a></li>
-                            <li><a href="#">Billing system</a></li>
-                        </ul>
-                    </div>    
-                </div><!--/.col-md-3-->
-
-                <div class="col-md-3 col-sm-6">
-                    <div class="widget">
-                        <h3>Developers</h3>
-                        <ul>
-                            <li><a href="#">Web Development</a></li>
-                            <li><a href="#">SEO Marketing</a></li>
-                            <li><a href="#">Theme</a></li>
-                            <li><a href="#">Development</a></li>
-                            <li><a href="#">Email Marketing</a></li>
-                            <li><a href="#">Plugin Development</a></li>
-                            <li><a href="#">Article Writing</a></li>
-                        </ul>
-                    </div>    
-                </div><!--/.col-md-3-->
-
-                <div class="col-md-3 col-sm-6">
-                    <div class="widget">
-                        <h3>Our Partners</h3>
-                        <ul>
-                            <li><a href="#">Adipisicing Elit</a></li>
-                            <li><a href="#">Eiusmod</a></li>
-                            <li><a href="#">Tempor</a></li>
-                            <li><a href="#">Veniam</a></li>
-                            <li><a href="#">Exercitation</a></li>
-                            <li><a href="#">Ullamco</a></li>
-                            <li><a href="#">Laboris</a></li>
-                        </ul>
-                    </div>    
-                </div><!--/.col-md-3-->
-            </div>
-        </div>
-    </section><!--/#bottom-->
-
-    <footer id="footer" class="midnight-blue">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-6">
-                    &copy; 2015 <a target="_blank" href="http://reacaojunior.ufsc.br" title="">ReaÃ§Ã£o Junior</a>. Todos os direitos reservados.
-                </div>
-                <div class="col-sm-6">
-                    <ul class="pull-right">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Faq</a></li>
-                        <li><a href="#">Contact Us</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </footer><!--/#footer-->
+  	<?php include 'footer.php';?>
 
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
