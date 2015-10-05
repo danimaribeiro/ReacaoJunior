@@ -34,7 +34,8 @@
 						<div class="feature-wrap">
 							<i class="fa fa-bullhorn"></i>
 							<h2>Análises químicas</h2>
-							<h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+							<h3>Análise química de diversos elementos e produtos: água, efluentes, alimentos
+								produtos de limpeza, resíduos, etc.</h3>
 						</div>
 					</div>
 					<!--/.col-md-4-->
@@ -44,7 +45,9 @@
 						<div class="feature-wrap">
 							<i class="fa fa-comments"></i>
 							<h2>Otimização de produtos químicos</h2>
-							<h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+							<h3>A consultoria oferecida pela RJ visa um produto de maior qualidade:
+								Análise das propriedades do produto químico
+								Possível alteração seja na constituição, na fabricação e/ou até mesmo no armazenamento.</h3>
 						</div>
 					</div>
 					<!--/.col-md-4-->
@@ -54,7 +57,10 @@
 						<div class="feature-wrap">
 							<i class="fa fa-cloud-download"></i>
 							<h2>Segurança</h2>
-							<h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+							<h3>Regulamentação de laboratórios.
+									Projeção de laboratórios.
+						Boas práticas e segurança em laboratório.
+					</h3>
 						</div>
 					</div>
 					<!--/.col-md-4-->
@@ -64,7 +70,7 @@
 						<div class="feature-wrap">
 							<i class="fa fa-leaf"></i>
 							<h2>Fabrição de cerveja</h2>
-							<h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit</h3>
+							<h3>A consultoria oferecida pela RJ visa aperfeiçoar os processos envolvidos e garantir uma 							cerveja /cachaça com qualidade dentro dos padrões exigidos pela lei vigente. </h3>
 						</div>
 					</div>
 					<!--/.col-md-4-->
