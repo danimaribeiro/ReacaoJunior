@@ -34,8 +34,8 @@
 						<div class="feature-wrap">
 							<i class="fa fa-bullhorn"></i>
 							<h2>Análises químicas</h2>
-							<h3>Análise química de diversos elementos e produtos: água, efluentes, alimentos
-								produtos de limpeza, resíduos, etc.</h3>
+							<h3>Análise química de diversos elementos e produtos: água,
+								efluentes, alimentos produtos de limpeza, resíduos, etc.</h3>
 						</div>
 					</div>
 					<!--/.col-md-4-->
@@ -45,9 +45,10 @@
 						<div class="feature-wrap">
 							<i class="fa fa-comments"></i>
 							<h2>Otimização de produtos químicos</h2>
-							<h3>A consultoria oferecida pela RJ visa um produto de maior qualidade:
-								Análise das propriedades do produto químico
-								Possível alteração seja na constituição, na fabricação e/ou até mesmo no armazenamento.</h3>
+							<h3>A consultoria oferecida pela RJ visa um produto de maior
+								qualidade: Análise das propriedades do produto químico Possível
+								alteração seja na constituição, na fabricação e/ou até mesmo no
+								armazenamento.</h3>
 						</div>
 					</div>
 					<!--/.col-md-4-->
@@ -57,10 +58,8 @@
 						<div class="feature-wrap">
 							<i class="fa fa-cloud-download"></i>
 							<h2>Segurança</h2>
-							<h3>Regulamentação de laboratórios.
-									Projeção de laboratórios.
-						Boas práticas e segurança em laboratório.
-					</h3>
+							<h3>Regulamentação de laboratórios. Projeção de laboratórios.
+								Boas práticas e segurança em laboratório.</h3>
 						</div>
 					</div>
 					<!--/.col-md-4-->
@@ -70,74 +69,89 @@
 						<div class="feature-wrap">
 							<i class="fa fa-leaf"></i>
 							<h2>Fabrição de cerveja</h2>
-							<h3>A consultoria oferecida pela RJ visa aperfeiçoar os processos envolvidos e garantir uma 							cerveja /cachaça com qualidade dentro dos padrões exigidos pela lei vigente. </h3>
+							<h3>A consultoria oferecida pela RJ visa aperfeiçoar os processos
+								envolvidos e garantir uma cerveja /cachaça com qualidade dentro
+								dos padrões exigidos pelo consumidor.</h3>
 						</div>
 					</div>
 					<!--/.col-md-4-->
-				
+
 				</div>
 				<!--/.services-->
 			</div>
 			<!--/.row-->
 
-
 			<div class="get-started center wow fadeInDown">
-				<h2>Ready to get started</h2>
-				<p class="lead">
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-					eiusmod tempor incididunt ut labore et dolore magna aliqua. <br> Ut
-					enim ad minim veniam,quis nostrud exercitation ullamco laboris nisi
-					ut aliquip ex ea commodo
+				<h2>Análises químicas</h2>
+				<p class="lead">Oferecemos um conjunto variado de análises que abrange a seguinte gama de produtos e compostos químicos.
 				</p>
 				<div class="request">
 					<h4>
-						<a href="#">Request a free Quote</a>
+						<a href="#">Roll de análises efetuadas</a>
 					</h4>
 				</div>
 			</div>
 			<!--/.get-started-->
 
 			<div class="clients-area center wow fadeInDown">
-				<h2>What our client says</h2>
-				<p class="lead">
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-					eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut enim
-					ad minim veniam
-				</p>
+				<ul class="list-group">
+					<li class="list-group-item">Água.</li>
+					<li class="list-group-item">Efluentes.</li>
+					<li class="list-group-item">Alimentos.</li>
+					<li class="list-group-item">Produtos de limpeza.</li>
+					<li class="list-group-item">Resíduos.</li>
+					<li class="list-group-item">Corantes e tintas.</li>
+					<li class="list-group-item">Combustíveis.</li>
+					<li class="list-group-item">Materiais (polímeros, cerâmicos e metálicos).</li>
+					<li class="list-group-item">Cosméticos.</li>
+					<li class="list-group-item">Materiais biológicos.</li>
+					<li class="list-group-item">Análise orgânica nos mais variados produtos industriais.</li>
+					<li class="list-group-item">Resíduos Industriais.</li>
+					<li class="list-group-item">Determinação de estruturas cristalinas para:</li>
+					<li class="list-group-item">Catalisadores utilizados em processos petroquímicos</li>
+					<li class="list-group-item">Metaloenzimas</li>
+					<li class="list-group-item">Compostos orgânicos e inorgânicos em geral</li>
+					
+				</ul>
 			</div>
 
-			<div class="row">
-				<div class="col-md-4 wow fadeInDown">
-					<div class="clients-comments text-center">
-						<img src="images/client1.png" class="img-circle" alt="">
-						<h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-							do eiusmod tempor incididunt</h3>
-						<h4>
-							<span>-John Doe /</span> Director of corlate.com
-						</h4>
-					</div>
-				</div>
-				<div class="col-md-4 wow fadeInDown">
-					<div class="clients-comments text-center">
-						<img src="images/client2.png" class="img-circle" alt="">
-						<h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-							do eiusmod tempor incididunt</h3>
-						<h4>
-							<span>-John Doe /</span> Director of corlate.com
-						</h4>
-					</div>
-				</div>
-				<div class="col-md-4 wow fadeInDown">
-					<div class="clients-comments text-center">
-						<img src="images/client3.png" class="img-circle" alt="">
-						<h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
-							do eiusmod tempor incididunt</h3>
-						<h4>
-							<span>-John Doe /</span> Director of corlate.com
-						</h4>
-					</div>
+
+
+			<div class="get-started center wow fadeInDown">
+				<h2>Tecnologia</h2>
+				<p class="lead">Para realizar as análises acima usufruimos de laboratórios e de variadas técnicas de análise
+				</p>
+				<div class="request">
+					<h4>
+						<a href="#">Técnicas utilizadas</a>
+					</h4>
 				</div>
 			</div>
+			<!--/.get-started-->
+
+			<div class="clients-area center wow fadeInDown">
+				<ul class="list-group">
+					<li class="list-group-item">Espectrometria de Absorção Atômica em
+						Chama (FAAS).</li>
+					<li class="list-group-item">Cromatografia à Gás (CG); Cromatografia
+						Líquida (HPLC).</li>
+					<li class="list-group-item">Ressonância Magnética Nuclear (RMN).</li>
+					<li class="list-group-item">Espectrometria de Massa (MS).</li>
+					<li class="list-group-item">Espectrofotometria UV-VIS</li>
+					<li class="list-group-item">Calorimetria diferencial de varredura</li>
+					<li class="list-group-item">Análise termogravimétrica</li>
+					<li class="list-group-item">Determinação de estabilidade térmica</li>
+					<li class="list-group-item">Temperatura de transição de fase
+						(transição vítrea e outras) em polímeros e metais</li>
+					<li class="list-group-item">Difratometria de Raio-X</li>
+					<li class="list-group-item">Análise elementar CHNSO.</li>
+					<li class="list-group-item">Laboratório de Via Úmida, onde são
+						realizadas inúmeras análises de bancada.</li>
+					<li class="list-group-item">Laboratório de Hidrocarbonetos, onde
+						são preparadas as amostras para análises por cromatografia gasosa</li>
+				</ul>
+			</div>
+
 
 		</div>
 		<!--/.container-->

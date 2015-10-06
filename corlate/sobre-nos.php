@@ -13,10 +13,10 @@
 		<div class="container">
 			<div class="center wow fadeInDown">
 				<h2>Sobre a Reação Júnior</h2>
-				<p class="lead">A RJ é uma empresa sem fins lucrativos,
-					vinculada a Universidade Federal de Santa Catarina, formada e
-					gerida exclusivamente por alunos de graduação dos cursos de
-					Quí­mica, Física e Matemática.</p>
+				<p class="lead">A RJ é uma empresa sem fins lucrativos, vinculada a
+					Universidade Federal de Santa Catarina, formada e gerida
+					exclusivamente por alunos de graduação dos cursos de Quí­mica,
+					Física e Matemática.</p>
 			</div>
 
 			<!-- about us slider -->
@@ -55,82 +55,13 @@
 			<!--/#about-slider-->
 
 
-			<!-- Our Skill -->
-			<div class="skill-wrap clearfix">
-
-				<div class="center wow fadeInDown">
-					<h2>Our Skill</h2>
-					<p class="lead">
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-						eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut
-						enim ad minim veniam
-					</p>
-				</div>
-
-				<div class="row">
-
-					<div class="col-sm-3">
-						<div class="sinlge-skill wow fadeInDown"
-							data-wow-duration="1000ms" data-wow-delay="300ms">
-							<div class="joomla-skill">
-								<p>
-									<em>85%</em>
-								</p>
-								<p>Joomla</p>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-sm-3">
-						<div class="sinlge-skill wow fadeInDown"
-							data-wow-duration="1000ms" data-wow-delay="600ms">
-							<div class="html-skill">
-								<p>
-									<em>95%</em>
-								</p>
-								<p>HTML</p>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-sm-3">
-						<div class="sinlge-skill wow fadeInDown"
-							data-wow-duration="1000ms" data-wow-delay="900ms">
-							<div class="css-skill">
-								<p>
-									<em>80%</em>
-								</p>
-								<p>CSS</p>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-sm-3">
-						<div class="sinlge-skill wow fadeInDown"
-							data-wow-duration="1000ms" data-wow-delay="1200ms">
-							<div class="wp-skill">
-								<p>
-									<em>90%</em>
-								</p>
-								<p>Wordpress</p>
-							</div>
-						</div>
-					</div>
-
-				</div>
-
-			</div>
-			<!--/.our-skill-->
-
-
 			<!-- our-team -->
-			<div class="team">
+			<div id="time" class="team">
 				<div class="center wow fadeInDown">
-					<h2>Team of Corlate</h2>
+					<h2>Time da Reação Júnior</h2>
 					<p class="lead">
-						Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-						eiusmod tempor incididunt ut <br> et dolore magna aliqua. Ut
-						enim ad minim veniam
+						Conheça um pouco mais sobre nosso time, e as pessoas que estão por trás da Reação Júnior.<br>
+						Além de nossos diretores temos um time de estudantes ansiosos para trabalhar por você
 					</p>
 				</div>
 
@@ -144,13 +75,12 @@
 										alt=""></a>
 								</div>
 								<div class="media-body">
-									<h4>Jhon Doe</h4>
-									<h5>Founder and CEO</h5>
+									<h4>Amanda Adriano</h4>
+									<h5>Presidente e Diretora de Marketing</h5>
 									<ul class="tag clearfix">
-										<li class="btn"><a href="#">Web</a></li>
-										<li class="btn"><a href="#">Ui</a></li>
-										<li class="btn"><a href="#">Ux</a></li>
-										<li class="btn"><a href="#">Photoshop</a></li>
+										<li class="btn"><a href="#">Comunicação</a></li>
+										<li class="btn"><a href="#">Liderança</a></li>
+										<li class="btn"><a href="#">Pró-Ativa</a></li>										
 									</ul>
 
 									<ul class="social_icons">
@@ -161,10 +91,11 @@
 								</div>
 							</div>
 							<!--/.media -->
-							<p>There are many variations of passages of Lorem Ipsum
-								available, but the majority have suffered alteration in some
-								form, by injected humour, or randomised words which don't look
-								even slightly believable.</p>
+							<p>Realiza as pesquisas relacionadas a mercado e a clientes, de
+								forma a guiar o caminho da empresa e garantir a satisfação de
+								nossos clientes. Também realiza a divulgação da marca Reação Jr
+								em eventos externos, como processos seletivos, cursos,
+								palestras, feiras e visitas técnicas..</p>
 						</div>
 					</div>
 					<!--/.col-lg-4 -->
@@ -179,13 +110,11 @@
 										alt=""></a>
 								</div>
 								<div class="media-body">
-									<h4>Jhon Doe</h4>
-									<h5>Founder and CEO</h5>
+									<h4>Gabriela Heerdt</h4>
+									<h5>Vice-Presidente e Diretora RH</h5>
 									<ul class="tag clearfix">
-										<li class="btn"><a href="#">Web</a></li>
-										<li class="btn"><a href="#">Ui</a></li>
-										<li class="btn"><a href="#">Ux</a></li>
-										<li class="btn"><a href="#">Photoshop</a></li>
+										<li class="btn"><a href="#">Amizade</a></li>
+										<li class="btn"><a href="#">Decidida</a></li>										
 									</ul>
 									<ul class="social_icons">
 										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -195,10 +124,11 @@
 								</div>
 							</div>
 							<!--/.media -->
-							<p>There are many variations of passages of Lorem Ipsum
-								available, but the majority have suffered alteration in some
-								form, by injected humour, or randomised words which don't look
-								even slightly believable.</p>
+							<p>Suas funções estão relacionadas a atrair, gerir e reter os
+								recursos humanos da empresa, visando proporcionar
+								desenvolvimento aos mesmos e manter o bom funcionamento da
+								empresa. São responsáveis por atividades de processos seletivos
+								e capacitações.</p>
 						</div>
 					</div>
 					<!--/.col-lg-4 -->
@@ -238,13 +168,11 @@
 								</div>
 
 								<div class="media-body">
-									<h4>Jhon Doe</h4>
-									<h5>Founder and CEO</h5>
+									<h4>Aline Lima</h4>
+									<h5>Diretora Administrativa</h5>
 									<ul class="tag clearfix">
 										<li class="btn"><a href="#">Web</a></li>
 										<li class="btn"><a href="#">Ui</a></li>
-										<li class="btn"><a href="#">Ux</a></li>
-										<li class="btn"><a href="#">Photoshop</a></li>
 									</ul>
 									<ul class="social_icons">
 										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -254,10 +182,9 @@
 								</div>
 							</div>
 							<!--/.media -->
-							<p>There are many variations of passages of Lorem Ipsum
-								available, but the majority have suffered alteration in some
-								form, by injected humour, or randomised words which don't look
-								even slightly believable.</p>
+							<p>Diretoria responsável por planejar e executar as atividades de
+								aspecto jurídico-financeiros das consultorias e da empresa, como
+								contratos, termos, atas, planejamento financeiro e orçamento.</p>
 						</div>
 					</div>
 					<div class="col-md-4 col-sm-6 col-md-offset-2">
@@ -269,13 +196,11 @@
 										alt=""></a>
 								</div>
 								<div class="media-body">
-									<h4>Jhon Doe</h4>
-									<h5>Founder and CEO</h5>
+									<h4>Paulo Alexandre Durant</h4>
+									<h5>Diretor de Projetos</h5>
 									<ul class="tag clearfix">
 										<li class="btn"><a href="#">Web</a></li>
 										<li class="btn"><a href="#">Ui</a></li>
-										<li class="btn"><a href="#">Ux</a></li>
-										<li class="btn"><a href="#">Photoshop</a></li>
 									</ul>
 									<ul class="social_icons">
 										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -285,10 +210,10 @@
 								</div>
 							</div>
 							<!--/.media -->
-							<p>There are many variations of passages of Lorem Ipsum
-								available, but the majority have suffered alteration in some
-								form, by injected humour, or randomised words which don't look
-								even slightly believable.</p>
+							<p>É responsável por planejar e gerenciar o andamento das
+								consultorias através do contato e do repasse das informações
+								para os clientes, além de acompanhar os projetos viabilizando o
+								contato com os professores e o trabalho dos consultores.</p>
 						</div>
 					</div>
 				</div>

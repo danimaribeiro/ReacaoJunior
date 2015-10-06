@@ -3,13 +3,11 @@
             <div class="row">
                 <div class="col-md-4 col-sm-6">
                     <div class="widget">
-                        <h3>Reação Junior</h3>
+                        <h3>Reação Júnior</h3>
                         <ul>
-                            <li><a href="#">Sobre nós</a></li>                            
-                            <li><a href="#">Conheça o time</a></li>                            
-                            <li><a href="#">Termos de uso</a></li>
-                            <li><a href="#">Política de privacidade</a></li>
-                            <li><a href="#">Contato</a></li>
+                            <li><a href="sobre-nos.php">Sobre nós</a></li>                            
+                            <li><a href="sobre-nos.php?#time">Conheça o time</a></li>                            
+                            <li><a href="contate-nos.php">Contato</a></li>
                         </ul>
                     </div>    
                 </div><!--/.col-md-3-->            
@@ -18,8 +16,7 @@
                     <div class="widget">
                         <h3>Social</h3>
                         <ul>
-                            <li><a href="#">Facebook</a></li>
-                            <li><a href="#">Blog</a></li>
+                            <li><a href="https://www.facebook.com/reacaojr?fref=ts">Facebook</a></li>                            
                             <li><a href="#">Dúvidas</a></li>                            
                         </ul>
                     </div>    
@@ -29,8 +26,8 @@
                     <div class="widget">
                         <h3>Nossos parceiros</h3>
                         <ul>
-                            <li><a href="#">UFSC</a></li>
-                            <li><a href="#">Central de Análises</a></li>                            
+                            <li><a href="http://www.ufsc.br/">UFSC</a></li>
+                            <li><a href="http://www.centraldeanalises.ufsc.br/">Central de Análises</a></li>                            
                         </ul>
                     </div>    
                 </div><!--/.col-md-3-->

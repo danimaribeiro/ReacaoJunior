@@ -9,7 +9,7 @@
 						class="icon-bar"></span> <span class="icon-bar"></span> <span
 						class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="index.html"><img
+				<a class="navbar-brand" href="index.php"><img
 					src="images/logo redimensionada.png" alt="logo"
 					style="margin-top: -5px; max-width: 260px;"></a>
 			</div>
