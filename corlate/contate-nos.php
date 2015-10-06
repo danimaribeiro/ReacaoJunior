@@ -33,7 +33,7 @@
 									<p>Universidade Federal de Santa Catarina <br/>Departamento de
 										Química - CFM <br /> 88040-900 Florianópolis/SC sala 402</p>
 									<p>
-										Email:contatoreacaojr@gmail.com
+										Email:reacaojr@contato.ufsc.br
 									</p>
 								</address>
 							</li>
@@ -66,10 +66,10 @@
 								class="form-control" required="required">
 						</div>
 						<div class="form-group">
-							<label>Telefone</label> <input type="number" class="form-control">
+							<label>Telefone</label> <input type="number" name="telefone" class="form-control">
 						</div>
 						<div class="form-group">
-							<label>Empresa</label> <input type="text" class="form-control">
+							<label>Empresa</label> <input type="text" name="empresa" class="form-control">
 						</div>
 					</div>
 					<div class="col-sm-5">
