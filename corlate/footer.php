@@ -27,7 +27,8 @@
                         <h3>Nossos parceiros</h3>
                         <ul>
                             <li><a href="http://www.ufsc.br/">UFSC</a></li>
-                            <li><a href="http://www.centraldeanalises.ufsc.br/">Central de Análises</a></li>                            
+                            <li><a href="http://www.centraldeanalises.ufsc.br/">Central de Análises</a></li>
+                            <li><a href="https://www.facebook.com/cromaas">Cromaas</a></li>                            
                         </ul>
                     </div>    
                 </div><!--/.col-md-3-->

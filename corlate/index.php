@@ -513,12 +513,15 @@
 			<div class="partners">
 				<ul>
 					<!-- <li> <a href="#"><img class="img-responsive wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms" src="images/partners/partner1.png"></a></li> -->
-					<li style="margin-left: 10%;"><a href="#"><img
+					<li style="margin-left: 10%;"><a href="http://www.ufsc.br/"><img
 							class="img-responsive wow fadeInDown" data-wow-duration="1000ms"
 							data-wow-delay="600ms" src="images/partners/partner2.png"></a></li>
-					<li style="margin-left: 30%;"><a href="#"><img
+					<li style="margin-left: 10%;"><a href="http://www.centraldeanalises.ufsc.br/"><img
 							class="img-responsive wow fadeInDown" data-wow-duration="1000ms"
 							data-wow-delay="900ms" src="images/partners/partner3.png"></a></li>
+					<li style="margin-left: 10%;"><a href="https://www.facebook.com/cromaas"><img
+							class="img-responsive wow fadeInDown" data-wow-duration="1000ms"
+							data-wow-delay="900ms" src="images/cromaas.jpg" style="max-height:80px;"></a></li>
 				</ul>
 			</div>
 		</div>
