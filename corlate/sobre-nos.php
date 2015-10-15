@@ -56,12 +56,17 @@
 
 
 			<!-- our-team -->
-			<div id="time" class="team">
+			<div id="time" class="team" style="margin-top: 80px;">
 				<div class="center wow fadeInDown">
-					<h2>Time da Reação Júnior</h2>
+					<h2>Equipe Reação Júnior</h2>
 					<p class="lead">
-						Conheça um pouco mais sobre nosso time, e as pessoas que estão por trás da Reação Júnior.<br>
-						Além de nossos diretores temos um time de estudantes ansiosos para trabalhar por você
+						Conheça um pouco mais sobre a nossa equipe, e as pessoas que estão
+						por trás da Reação Júnior.<br> Essa equipe é o nosso patrimônio
+						mais valioso, pois são os agentes da transformação, geradores de
+						ideias, responsáveis pelas decisões e quem transmite Paixão,
+						Respeito, Comprometimento e Transparência. Somente com uma equipe
+						unida e alinhada a esses valores é possível quebrar tantos limites
+						e alcançar a Excelência e a busca por um Brasil cada vez melhor!
 					</p>
 				</div>
 
@@ -71,7 +76,7 @@
 							data-wow-duration="1000ms" data-wow-delay="300ms">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object" src="images/man1.jpg"
+									<a href="#"><img class="media-object" src="images/woman1.png"
 										alt=""></a>
 								</div>
 								<div class="media-body">
@@ -80,7 +85,7 @@
 									<ul class="tag clearfix">
 										<li class="btn"><a href="#">Comunicação</a></li>
 										<li class="btn"><a href="#">Liderança</a></li>
-										<li class="btn"><a href="#">Pró-Ativa</a></li>										
+										<li class="btn"><a href="#">Pró-Ativa</a></li>
 									</ul>
 
 									<ul class="social_icons">
@@ -106,15 +111,17 @@
 							data-wow-duration="1000ms" data-wow-delay="300ms">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object" src="images/man2.jpg"
+									<a href="#"><img class="media-object" src="images/woman1.png"
 										alt=""></a>
 								</div>
 								<div class="media-body">
 									<h4>Gabriela Heerdt</h4>
 									<h5>Vice-Presidente e Diretora RH</h5>
 									<ul class="tag clearfix">
+										<li class="btn"><a href="#">Organizada</a></li>
+										<li class="btn"><a href="#">Comprometida</a></li>
 										<li class="btn"><a href="#">Amizade</a></li>
-										<li class="btn"><a href="#">Decidida</a></li>										
+										<li class="btn"><a href="#">Decidida</a></li>
 									</ul>
 									<ul class="social_icons">
 										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -163,7 +170,7 @@
 							data-wow-duration="1000ms" data-wow-delay="600ms">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object" src="images/man3.jpg"
+									<a href="#"><img class="media-object" src="images/woman1.png"
 										alt=""></a>
 								</div>
 
@@ -171,8 +178,8 @@
 									<h4>Aline Lima</h4>
 									<h5>Diretora Administrativa</h5>
 									<ul class="tag clearfix">
-										<li class="btn"><a href="#">Web</a></li>
-										<li class="btn"><a href="#">Ui</a></li>
+										<li class="btn"><a href="#">Comunicação</a></li>
+										<li class="btn"><a href="#">Liderança</a></li>
 									</ul>
 									<ul class="social_icons">
 										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -192,15 +199,15 @@
 							data-wow-duration="1000ms" data-wow-delay="600ms">
 							<div class="media">
 								<div class="pull-left">
-									<a href="#"><img class="media-object" src="images/man4.jpg"
+									<a href="#"><img class="media-object" src="images/man1.png"
 										alt=""></a>
 								</div>
 								<div class="media-body">
 									<h4>Paulo Alexandre Durant</h4>
 									<h5>Diretor de Projetos</h5>
 									<ul class="tag clearfix">
-										<li class="btn"><a href="#">Web</a></li>
-										<li class="btn"><a href="#">Ui</a></li>
+										<li class="btn"><a href="#">Comunicação</a></li>
+										<li class="btn"><a href="#">Liderança</a></li>
 									</ul>
 									<ul class="social_icons">
 										<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -218,6 +225,64 @@
 					</div>
 				</div>
 				<!--/.row-->
+				<div class="row" style="margin-top: 100px;">
+					<div class="col-md-3 wow fadeInDown animated"
+						style="visibility: visible; animation-name: fadeInDown;">
+						<div class="clients-comments text-center">
+							<img src="images/client1.png" class="img-circle" alt="">
+							<h4>
+								<span>Administrativo/Financeiro</span>
+							</h4>
+							<ul style="list-style: none;">
+								<li>Yonara Soares</li>
+								<li>Carla F Roque Laus</li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-md-3 wow fadeInDown animated"
+						style="visibility: visible; animation-name: fadeInDown;">
+						<div class="clients-comments text-center">
+							<img src="images/client2.png" class="img-circle" alt="">
+							<h4>
+								<span>Marketing</span>
+							</h4>
+							<ul style="list-style: none;">
+								<li>Rafael Filipe Battisti Cavichion</li>
+								<li>Simone de Lima</li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-md-3 wow fadeInDown animated"
+						style="visibility: visible; animation-name: fadeInDown;">
+						<div class="clients-comments text-center">
+							<img src="images/client3.png" class="img-circle" alt="">
+							<h4>
+								<span>RH</span>
+							</h4>
+							<ul style="list-style: none;">
+								<li>Bruna de Oliveira</li>
+								<li>Guilherme Diogo Faria</li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-md-3 wow fadeInDown animated"
+						style="visibility: visible; animation-name: fadeInDown;">
+						<div class="clients-comments text-center">
+							<img src="images/client4.png" class="img-circle" alt="">
+							<h4>
+								<span>Projetos</span>
+							</h4>
+							<ul style="list-style: none;">
+								<li>Beatriz Campos Comelli</li>
+								<li>Heloisa Campos Comelli</li>
+								<li>Daniele Ferneda</li>
+								<li>Danimar Ribeiro</li>
+								<li>Victor Genovez Ilkui</li>
+								<li>Henrique Andre de Faria</li>
+							</ul>
+						</div>
+					</div>
+				</div>
 			</div>
 			<!--section-->
 		</div>

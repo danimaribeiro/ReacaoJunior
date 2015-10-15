@@ -182,9 +182,7 @@
 	<section id="recent-works">
 		<div class="container">
 			<div class="center wow fadeInDown">
-				<h2>Trabalhos recentes</h2>
-				<p class="lead">Aqui eu pensei em vez dos trabalhos colocar fotos
-					nossas nas reuniões, etc</p>
+				<h2>Trabalhos recentes</h2>				
 			</div>
 
 			<div class="row">
@@ -195,10 +193,8 @@
 						<div class="overlay">
 							<div class="recent-work-inner">
 								<h3>
-									<a href="#">Business theme</a>
-								</h3>
-								<p>There are many variations of passages of Lorem Ipsum
-									available, but the majority</p>
+									<a href="#">Em construção</a>
+								</h3>								
 								<a class="preview" href="images/portfolio/full/item1.png"
 									rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
 							</div>
@@ -213,10 +209,8 @@
 						<div class="overlay">
 							<div class="recent-work-inner">
 								<h3>
-									<a href="#">Business theme</a>
-								</h3>
-								<p>There are many variations of passages of Lorem Ipsum
-									available, but the majority</p>
+									<a href="#">Em construção</a>
+								</h3>								
 								<a class="preview" href="images/portfolio/full/item2.png"
 									rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
 							</div>
@@ -231,10 +225,8 @@
 						<div class="overlay">
 							<div class="recent-work-inner">
 								<h3>
-									<a href="#">Business theme </a>
-								</h3>
-								<p>There are many variations of passages of Lorem Ipsum
-									available, but the majority</p>
+									<a href="#">Em construção</a>
+								</h3>								
 								<a class="preview" href="images/portfolio/full/item3.png"
 									rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
 							</div>
@@ -249,10 +241,8 @@
 						<div class="overlay">
 							<div class="recent-work-inner">
 								<h3>
-									<a href="#">Business theme </a>
-								</h3>
-								<p>There are many variations of passages of Lorem Ipsum
-									available, but the majority</p>
+									<a href="#">Em construção</a>
+								</h3>								
 								<a class="preview" href="images/portfolio/full/item4.png"
 									rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
 							</div>
@@ -267,10 +257,8 @@
 						<div class="overlay">
 							<div class="recent-work-inner">
 								<h3>
-									<a href="#">Business theme</a>
-								</h3>
-								<p>There are many variations of passages of Lorem Ipsum
-									available, but the majority</p>
+									<a href="#">Em construção</a>
+								</h3>								
 								<a class="preview" href="images/portfolio/full/item5.png"
 									rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
 							</div>
@@ -285,10 +273,8 @@
 						<div class="overlay">
 							<div class="recent-work-inner">
 								<h3>
-									<a href="#">Business theme </a>
-								</h3>
-								<p>There are many variations of passages of Lorem Ipsum
-									available, but the majority</p>
+									<a href="#">Em construção</a>
+								</h3>								
 								<a class="preview" href="images/portfolio/full/item6.png"
 									rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
 							</div>
@@ -303,10 +289,8 @@
 						<div class="overlay">
 							<div class="recent-work-inner">
 								<h3>
-									<a href="#">Business theme </a>
-								</h3>
-								<p>There are many variations of passages of Lorem Ipsum
-									available, but the majority</p>
+									<a href="#">Em construção</a>
+								</h3>								
 								<a class="preview" href="images/portfolio/full/item7.png"
 									rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
 							</div>
@@ -321,10 +305,8 @@
 						<div class="overlay">
 							<div class="recent-work-inner">
 								<h3>
-									<a href="#">Business theme </a>
-								</h3>
-								<p>There are many variations of passages of Lorem Ipsum
-									available, but the majority</p>
+									<a href="#">Em construção</a>
+								</h3>								
 								<a class="preview" href="images/portfolio/full/item8.png"
 									rel="prettyPhoto"><i class="fa fa-eye"></i> View</a>
 							</div>
